@@ -1,0 +1,96 @@
+
+CowboyRun.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyRun8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Run (8)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,120 @@
+
+CowboyIdle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (10)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (8)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyIdle10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: xy
+Idle (9)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1

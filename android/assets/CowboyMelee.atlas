@@ -1,0 +1,84 @@
+
+CowboyMelee.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyMelee2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyMelee3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyMelee4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyMelee5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyMelee6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+CowboyMelee7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Melee (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
